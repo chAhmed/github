@@ -1,0 +1,11 @@
+javascript validations
+sessions
+handling date and time
+cookies
+popup window
+oop concepts
+pdo
+mvc
+github
+designn patterns
+sql injections
